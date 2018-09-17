@@ -1,0 +1,3 @@
+To create a so called weighted graph, we had to create a new object called "Edge" that now stores our information.  
+The main Graph is still in "Adjacency List" form, but now we use a Priority Queue instead to make our access time much quicker
+The Prim and Kruskal MST Algorithms are implemented inside of the "TestGraphs" class!
