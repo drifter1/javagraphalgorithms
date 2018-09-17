@@ -1,0 +1,6 @@
+The Boruvka Algorithm is similar to Prim, mostly called "Parallel Prim".   
+Therefore, we implement it with a similar "Adjacency List"-Graph, that contains a Priority Queue.  
+We use a function to check the "Connectivity", which is very important and  
+also a function for traversal (dfs again).  
+The main algorithm is distributed along the "Graph" and "TestGraphs" classes.
+
