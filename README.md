@@ -2,7 +2,7 @@
 A short Description of this repository:  
 Implementations of Graph Algorithms in the Object-Oriented Programming Language: "Java".  
 
-This is the Github repository that gives you access to all the Code written during the Steemit-Series: "Java Graphs" of Steemit user @drifter1 (which is me).  
+This is a Github repository that gives you access to all the Code written during the Steemit-Series: "Java Graphs" of Steemit user @drifter1 (which is me).  
 
 Until now I implemented the following:  
 Adjacency Matrix and List implementation of a Graph -> https://steemit.com/programming/@drifter1/programming-java-graphs-introduction  
