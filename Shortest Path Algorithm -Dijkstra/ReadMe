@@ -1,0 +1,5 @@
+The main implementation of the Traversal Algorithm's Graph still remains...  
+But, we now also add a "Vertex"-object to make the Algortihm implementation much easier.  
+This means that the "main" Graph is still using Edges and that we just defined another  
+class that helps us in the implementation of Dijkstra!  
+The Algorithm is again inside of the "TestGraphs" class
