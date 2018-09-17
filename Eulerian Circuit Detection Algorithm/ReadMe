@@ -1,5 +1,5 @@
 This Algorithm uses the "Adjacency List" impementation, having integer weights.  
 To solve this problem more easily we check for "Connectivity" using the isConnected() function.  
 Checking if the Graph is "connected" is very important and one of the basic concepts of Graph Theory!  
-Similar to the Hamiltonian algorithm, weg again have to use a traversal function (dfs again)  
+We also have to use a traversal function (dfs for example)    
 The main Algorithm can again be found inside of the "TestGraph" class
