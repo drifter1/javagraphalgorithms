@@ -1,0 +1,4 @@
+There are lots of implementations for Hamiltonian Circuit detection...  
+The one that I chose to implement uses the Backtracking approach of solving.  
+Being Backtracking the Graph is implemented as a "Adjacency Matrix" with integer weights.  
+The "main" Algorithm can again be found inside of the "TestGraphs" class
