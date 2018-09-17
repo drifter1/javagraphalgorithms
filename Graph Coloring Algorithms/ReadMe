@@ -1,0 +1,3 @@
+These algorithms (greedy and backtracking) use the "Adjacency List" implementation of a Graph, without Edges.  
+Both of them are implemented inside of the "TestGraph" class.  
+Nothing more to say, really..
