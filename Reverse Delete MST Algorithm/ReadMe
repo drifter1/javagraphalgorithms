@@ -1,0 +1,4 @@
+This Algorithm is a somewhat reverse/oppositev version of Kruskal.  
+We use the same Graph as in Kruskal, which means Adjacency List with Edges.  
+The Algorithm is again using a "Connectivity"-check function and also DFS.  
+The actual Algorithm is inside of "TestGraphs", but calls lots of functions of "Graph"!
