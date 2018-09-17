@@ -1,0 +1,4 @@
+This Algorithm uses the "Adjacency Matrix" implementation of a Graph,  
+by also changing the elements into "floats" to be weighted.  
+The main Algorithm uses the bfs algorithm (could also use dfs)  
+and can again be found inside of "TestGraphs".
