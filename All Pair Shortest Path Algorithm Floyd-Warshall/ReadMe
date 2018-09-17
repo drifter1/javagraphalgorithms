@@ -1,0 +1,4 @@
+This Algorithm uses the "Adjacency Matrix" implementation.  
+By changing the elements into "floats", instead of booleans (which just showed us the existence),
+we now also have a weight.  
+The main Algorithm is again implemented inside of "TestGraphs"
