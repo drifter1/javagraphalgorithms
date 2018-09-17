@@ -1,0 +1,4 @@
+This Algorithm uses the "Adjacency List" impementation, having integer weights.  
+To solve this problem more easily we check for "Connectivity" using the isConnected() function.  
+Checking if the Graph is "connected" is very important and one of the basic concepts of Graph Theory!   
+The main Algorithm can again be found inside of the "TestGraph" class
