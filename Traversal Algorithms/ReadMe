@@ -1,0 +1,2 @@
+This "new" Graph is a tweaked version of the MatrixList so that it works more easily with the Traversal Algorithms,  
+which by the way are inside of the "TestGraphs" class!
