@@ -15,7 +15,7 @@ Maximum Flow Algorithm (Ford-Fulkerson) -> https://steemit.com/programming/@drif
 Backtracking Hamiltonian Circuit Algorithm -> https://steemit.com/programming/@drifter1/programming-java-graph-backtracking-hamiltonian-circuit-algorithm  
 Eulerian Circuit Detection Algorithm -> https://steemit.com/programming/@drifter1/programming-java-graph-eulerian-circuit-detection-algorithm  
 Minimum Spanning Tree Algorithms 2 (Boruvka and Reverse Delete) -> https://steemit.com/programming/@drifter1/programming-java-graph-minimum-spanning-tree-algorithms-2  
-Graph Coloring (Greedy and Backtracking) -> ...  
+Graph Coloring (Greedy and Backtracking) -> https://steemit.com/utopian-io/@drifter1/programming-java-graph-coloring-algorithms-backtracking-and-greedy  
 
 (For now) Next on my list are:  
 The Travelling Salesman Problem and Algorithms that solve it  
