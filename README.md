@@ -17,8 +17,4 @@ Until now I implemented the following:
 - **Eulerian Circuit Detection Algorithm** -> https://steemit.com/programming/@drifter1/programming-java-graph-eulerian-circuit-detection-algorithm  
 - **Minimum Spanning Tree Algorithms 2 (Boruvka and Reverse Delete)** -> https://steemit.com/programming/@drifter1/programming-java-graph-minimum-spanning-tree-algorithms-2  
 - **Graph Coloring (Greedy and Backtracking)** -> https://steemit.com/utopian-io/@drifter1/programming-java-graph-coloring-algorithms-backtracking-and-greedy  
-
-# Next Up
-(For now) Next on my list are:  
-- The Travelling Salesman Problem and Algorithms that solve it  
-- Vertex Cover Problem
+- **Travelling Salesman Problem (Naive)** -> https://peakd.com/hive-163521/@drifter1/programming-java-travelling-salesman-problem-solution-naive-algorithm
