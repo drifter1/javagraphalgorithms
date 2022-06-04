@@ -2,7 +2,7 @@
 A short Description of this repository:  
 Implementations of Graph Algorithms in the Object-Oriented Programming Language: "Java".  
 
-This is a Github repository that gives you access to all the Code written during the Steemit-Series: "Java Graphs" of Steemit user @drifter1 (which is me).  
+This is a Github repository that gives you access to all the Code written during my Steemit/Hive Series: "Java Graphs".
 
 # Algorithms and Corresponding Articles
 Until now I implemented the following:  
