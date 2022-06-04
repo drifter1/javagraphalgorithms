@@ -1,0 +1,2 @@
+A simple solution of the travelling salesman problem (TSP) using a naive approach.
+The main algorithm is written in the "TestGraphs" class.
